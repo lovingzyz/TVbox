@@ -1,5 +1,4 @@
 央视,#genre#
-CCTV-1,http://zhibotv.gq/m3u8.php?/migu/608807420
 CCTV-1,https://iptv.luas.edu.cn/liverespath/6439a34cf7b96bdfd8c4234fc91cb4912c9becd1/a9d3355361-0-0-9516fa9fec91286e254ead3ca0961a27/index.m3u8
 CCTV-1,http://39.134.24.166/39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://116.132.87.246:8888/newlive/live/hls/2/live.m3u8
